@@ -1,4 +1,4 @@
-#define MSSG "Hello "
+#define MSSG "Hello " // using mecro
 int main(void)
 {
 	printf(MSSG);
